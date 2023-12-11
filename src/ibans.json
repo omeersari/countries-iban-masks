@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Andorra",
+        "iso": "AD",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/ad.svg",
+        "iban_mask": "AF## #### #### #### #### ####"
+    },
+    {
+        "name": "United Arab Emirates",
+        "iso": "AE",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/ae.svg",
+        "iban_mask": "AX## #### #### #### #### ###"
+    },
+    {
+        "name": "Albania",
+        "iso": "AL",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/al.svg",
+        "iban_mask": "AL## #### #### #### #### #### ####"
+    },
+    {
+        "name": "Austria",
+        "iso": "AT",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/at.svg",
+        "iban_mask": "AT## #### #### #### ####"
+    },
+    {
+        "name": "Azaerbaijan",
+        "iso": "AZ",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/az.svg",
+        "iban_mask": "AZ## #### #### #### #### #### ####"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "iso": "BA",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/ba.svg",
+        "iban_mask": "BA## #### #### #### ####"
+    },
+    {
+        "name": "Belgium",
+        "iso": "BE",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/be.svg",
+        "iban_mask": "BE## #### #### ####"
+    },
+    {
+        "name": "Bulgaria",
+        "iso": "BG",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/bg.svg",
+        "iban_mask": "BG## #### #### #### #### ##"
+    },
+    {
+        "name": "Brazil",
+        "iso": "BR",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/br.svg",
+        "iban_mask": "BR## #### #### #### #### #### #### #"
+    },
+    {
+        "name": "Bahrain",
+        "iso": "BH",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/bh.svg",
+        "iban_mask": "BH## #### #### #### #### ##"
+    },
+    {
+        "name": "Switzerland",
+        "iso": "CH",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/ch.svg",
+        "iban_mask": "CH## #### #### #### #### #"
+    },
+    {
+        "name": "Costa Rica",
+        "iso": "CR",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/cr.svg",
+        "iban_mask": "CR## #### #### #### #### ##"
+    },
+    {
+        "name": "Cyprus",
+        "iso": "CY",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/cy.svg",
+        "iban_mask": "CY## #### #### #### #### #### ####"
+    },
+    {
+        "name": "Czech Republic",
+        "iso": "CZ",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/ad.svg",
+        "iban_mask": "CZ## #### #### #### #### ####"
+    },
+    {
+        "name": "Germany",
+        "iso": "DE",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/de.svg",
+        "iban_mask": "DE## #### #### #### #### ##"
+    },
+    {
+        "name": "Denmark",
+        "iso": "DK",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/dk.svg",
+        "iban_mask": "DK## #### #### #### ##"
+    },
+    {
+        "name": "Dominican Republic",
+        "iso": "DO",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/do.svg",
+        "iban_mask": "DO## #### #### #### #### #### ####"
+    },
+    {
+        "name": "Estonia",
+        "iso": "EE",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/ee.svg",
+        "iban_mask": "EE## #### #### #### ####"
+    },
+    {
+        "name": "Spain",
+        "iso": "ES",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/es.svg",
+        "iban_mask": "ES## #### #### #### #### ####"
+    },
+    {
+        "name": "Finland",
+        "iso": "FI",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/fi.svg",
+        "iban_mask": "FI## #### #### #### ##"
+    },
+    {
+        "name": "Faroe Islands",
+        "iso": "FO",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/fo.svg",
+        "iban_mask": "FO## #### #### #### ##"
+    }
+]
