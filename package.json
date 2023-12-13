@@ -16,7 +16,7 @@
     "countries"
   ],
   "author": "Omer Sari <omeersari@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/omeersari/countries-iban-masks/issues"
   },
