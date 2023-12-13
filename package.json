@@ -2,7 +2,7 @@
   "name": "countries-iban-masks",
   "version": "1.0.0",
   "description": "IBAN masks for countries",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
