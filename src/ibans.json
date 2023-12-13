@@ -124,5 +124,323 @@
         "iso": "FO",
         "flag":"https://cdn.kcak11.com/CountryFlags/countries/fo.svg",
         "iban_mask": "FO## #### #### #### ##"
+    },
+    {
+        "name": "France",
+        "iso": "FR",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/fr.svg",
+        "iban_mask": "FR## #### #### #### #### #### ###"
+    },
+    {
+        "name": "United Kingdom",
+        "iso": "GB",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/gb.svg",
+        "iban_mask": "GB## #### #### #### #### ##"
+    },
+    {
+        "name": "Georgia",
+        "iso": "GE",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/ge.svg",
+        "iban_mask": "GE## #### #### #### #### ##"
+    },
+    {
+        "name": "Gibraltar",
+        "iso": "GI",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/gi.svg",
+        "iban_mask": "GI## #### #### #### #### ###"
+    },
+    {
+        "name": "Greenland",
+        "iso": "GL",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/gl.svg",
+        "iban_mask": "GL## #### #### #### ##"
+    },
+    {
+        "name": "Greece",
+        "iso": "GR",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/gr.svg",
+        "iban_mask": "GR## #### #### #### #### #### ###"
+    },
+    {
+        "name": "Guatemala",
+        "iso": "GT",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/gt.svg",
+        "iban_mask": "GT## #### #### #### #### #### ####"
+    },
+    {
+        "name": "Crotia",
+        "iso": "HR",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/hr.svg",
+        "iban_mask": "HR## #### #### #### #### #"
+    },
+    {
+        "name": "Hungary",
+        "iso": "HU",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/hu.svg",
+        "iban_mask": "HU## #### #### #### #### #### ####"
+    },
+    {
+        "name": "Ireland",
+        "iso": "IE",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/ie.svg",
+        "iban_mask": "IE## #### #### #### #### ##"
+    },
+    {
+        "name": "Israel",
+        "iso": "IL",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/il.svg",
+        "iban_mask": "IL## #### #### #### #### ###"
+    },
+    {
+        "name": "Iceland",
+        "iso": "IS",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/is.svg",
+        "iban_mask": "IS## #### #### #### #### #### ##"
+    },
+    {
+        "name": "Italy",
+        "iso": "IT",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/it.svg",
+        "iban_mask": "IT## #### #### #### #### #### ###"
+    },
+    {
+        "name": "Jordan",
+        "iso": "JO",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/jo.svg",
+        "iban_mask": "JO## #### #### #### #### #### #### ##"
+    },
+    {
+        "name": "Kuwait",
+        "iso": "KW",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/kw.svg",
+        "iban_mask": "KW## #### #### #### #### #### #### ##"
+    },
+    {
+        "name": "Kazakhstan",
+        "iso": "KZ",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/kz.svg",
+        "iban_mask": "KZ## #### #### #### ####"
+    },
+    {
+        "name": "Lebanon",
+        "iso": "LB",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/lb.svg",
+        "iban_mask": "LB## #### #### #### #### #### ####"
+    },
+    {
+        "name": "Saint Lucia",
+        "iso": "LC",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/lc.svg",
+        "iban_mask": "LC## #### #### #### #### #### #### ####"
+    },
+    {
+        "name": "Liechtenstein",
+        "iso": "LI",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/li.svg",
+        "iban_mask": "LI## #### #### #### #### #"
+    },
+    {
+        "name": "Lithuania",
+        "iso": "LT",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/lt.svg",
+        "iban_mask": "LT## #### #### #### ####"
+    },
+    {
+        "name": "Luxembourg",
+        "iso": "LU",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/lu.svg",
+        "iban_mask": "LU## #### #### #### ####"
+    },
+    {
+        "name": "Latvia",
+        "iso": "LV",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/lv.svg",
+        "iban_mask": "LV## #### #### #### #### #"
+    },
+    {
+        "name": "Monaco",
+        "iso": "MC",
+        "flag":"https://cdn.kcak11.com/CountryFlags/countries/mc.svg",
+        "iban_mask": "MC## #### #### #### #### #### ###"
+    },
+    {
+        "name": "Moldova",
+        "iso": "MD",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/md.svg",
+        "iban_mask": "MD## #### #### #### #### ####"
+    },
+    {
+        "name": "Montenegro",
+        "iso": "ME",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/me.svg",
+        "iban_mask": "ME## #### #### #### #### ##"
+    },
+    {
+        "name": "Saint Martin",
+        "iso": "MF",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/mf.svg",
+        "iban_mask": "FR## #### #### #### #### #### #### ###"
+    },
+    {
+        "name": "Macedonia",
+        "iso": "MK",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/mk.svg",
+        "iban_mask": "MK## #### #### #### ###"
+    },
+    {
+        "name": "Martinique",
+        "iso": "MQ",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/mq.svg",
+        "iban_mask": "FR## #### #### #### #### #### #### ###"
+    },
+    {
+        "name": "Mauritania",
+        "iso": "MR",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/mr.svg",
+        "iban_mask": "MR## #### #### #### #### #### ###"
+    },
+    {
+        "name": "Malta",
+        "iso": "MT",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/mt.svg",
+        "iban_mask": "MT## #### #### #### #### #### #### ###"
+    },
+    {
+        "name": "Mauritius",
+        "iso": "MU",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/mu.svg",
+        "iban_mask": "MU## #### #### #### #### #### #### ##"
+    },
+    {
+        "name": "New Caledonia",
+        "iso": "NC",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/nc.svg",
+        "iban_mask": "FR## #### #### #### #### #### ###"
+    },
+    {
+        "name": "Netherlands",
+        "iso": "NL",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/nl.svg",
+        "iban_mask": "NL## #### #### #### ##"
+    },
+    {
+        "name": "Norway",
+        "iso": "NO",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/no.svg",
+        "iban_mask": "NO## #### #### ###"
+    },
+    {
+        "name": "French Polynesia",
+        "iso": "PF",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/pf.svg",
+        "iban_mask": "FR## #### #### #### #### #### ###"
+    },
+    {
+        "name": "Pakistan",
+        "iso": "PK",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/pk.svg",
+        "iban_mask": "PK## #### #### #### #### ####"
+    },
+    {
+        "name": "Poland",
+        "iso": "PL",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/pl.svg",
+        "iban_mask": "PL## #### #### #### #### #### ####"
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "iso": "FR",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/pm.svg",
+        "iban_mask": "FR## #### #### #### #### #### ###"
+    },
+    {
+        "name": "Palestine",
+        "iso": "PS",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/ps.svg",
+        "iban_mask": "PS## #### #### #### #### #### #### #"
+    },
+    {
+        "name": "Portugal",
+        "iso": "PT",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/pt.svg",
+        "iban_mask": "PT## #### #### #### #### #### #"
+    },
+    {
+        "name": "Qatar",
+        "iso": "QA",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/qa.svg",
+        "iban_mask": "QA## #### #### #### #### #### #### #"
+    },
+    {
+        "name": "Romania",
+        "iso": "RO",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/ro.svg",
+        "iban_mask": "RO## #### #### #### #### ####"
+    },
+    {
+        "name": "Serbia",
+        "iso": "RS",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/rs.svg",
+        "iban_mask": "RS## #### #### #### #### ##"
+    },
+    {
+        "name": "Saudi Arabia",
+        "iso": "SA",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/sa.svg",
+        "iban_mask": "SA## #### #### #### #### ####"
+    },
+    {
+        "name": "Sweden",
+        "iso": "SE",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/se.svg",
+        "iban_mask": "SE## #### #### #### #### ####"
+    },
+    {
+        "name": "Slovenia",
+        "iso": "SI",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/si.svg",
+        "iban_mask": "SI## #### #### #### ###"
+    },
+    {
+        "name": "San Marino",
+        "iso": "SM",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/sm.svg",
+        "iban_mask": "SM## #### #### #### #### #### ###"
+    },
+    {
+        "name": "Slovakia",
+        "iso": "SK",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/sk.svg",
+        "iban_mask": "SK## #### #### #### #### ####"
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "iso": "ST",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/st.svg",
+        "iban_mask": "ST## #### #### #### #### #### #"
+    },
+    {
+        "name": "Tunisia",
+        "iso": "TN",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/tn.svg",
+        "iban_mask": "TN## #### #### #### #### ####"
+    },
+    {
+        "name": "Turkey",
+        "iso": "TR",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/tr.svg",
+        "iban_mask": "TR## #### #### #### #### #### ##"
+    },
+    {
+        "name": "Ukraine",
+        "iso": "UA",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/ua.svg",
+        "iban_mask": "UA## #### #### #### #### #### #### #"
+    },
+    {
+        "name": "Virgin Islands",
+        "iso": "VG",
+        "flag": "https://cdn.kcak11.com/CountryFlags/countries/vg.svg",
+        "iban_mask": "VG## #### #### #### #### ####"
     }
 ]
