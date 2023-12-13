@@ -1,0 +1,24 @@
+{
+  "name": "countries-iban-masks",
+  "version": "1.0.0",
+  "description": "IBAN masks for countries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omeersari/countries-iban-masks.git"
+  },
+  "keywords": [
+    "mask",
+    "iban",
+    "countries"
+  ],
+  "author": "Omer Sari <omeersari@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omeersari/countries-iban-masks/issues"
+  },
+  "homepage": "https://github.com/omeersari/countries-iban-masks#readme"
+}
