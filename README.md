@@ -11,7 +11,7 @@ npm install countries-iban-masks
 ## Usage
 
 ```javascript
-const countries = require('countries-phone-masks')
+const countries = require('countries-iban-masks')
 
 console.log(ibans.find(({ name }) => name === 'Turkey'))
 // {
